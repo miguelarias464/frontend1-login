@@ -32,3 +32,10 @@ Contraseña:
 
 - HTML
 - JavaScript
+
+## Integrantes del equipo
+- Miguel Arias
+- Marcela Arenas
+- Sebastian Ramirez
+- Santiago Arias
+
