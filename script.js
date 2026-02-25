@@ -45,7 +45,10 @@ let acceso = verificarDatos(usuario, contraseña);
 if(acceso){
 
 alert("Acceso permitido");
+window.location.href = "dashboard.html";
 return;
+
+
 
 }else{
 
